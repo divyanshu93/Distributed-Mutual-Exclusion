@@ -1,0 +1,7 @@
+3 200 100 3
+
+0 dc29.utdallas.edu 9540
+1 dc34.utdallas.edu 9541
+2 dc43.utdallas.edu 9542
+#3 dc23.utdallas.edu 19343
+#4 dc17.utdallas.edu 19344
